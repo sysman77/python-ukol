@@ -1,5 +1,5 @@
 # python-ukol
-Repozitář pro úkol č. 8
+Repozitář pro domácí úlohu č. 8
 
 https://materials.itstep.org/content/4d7e0954-6992-4d4a-bb8b-d4a2b66626e9/en/?cache=0
 
