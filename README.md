@@ -1,4 +1,36 @@
 # python-ukol
+Modul Soubory
+Část 1
+
+Úkol 1
+Máte dva textové soubory. Zjistěte, zda se jejich řádky shodují. Pokud tak neučiní, vytiskněte nesouladový řádek z každého souboru.
+
+Úkol 2
+Máte textový soubor. Vytvořte nový soubor a napište do něj následující statistiky založené na zdrojovém souboru:
+
+Počet znaků;
+Počet řádků;
+Počet samohlásek;
+Počet souhlásek;
+Počet číslic.
+Úkol 3
+Máte textový soubor. Odstraňte z něj poslední řádek. Napište výsledek do jiného souboru.
+
+Úkol 4
+Máte textový soubor. Najděte délku nejdelší čáry.
+
+Úkol 5
+Máte textový soubor. Počítejte, kolikrát se v něm slovo určené uživatelem vyskytuje.
+
+Úkol 6
+Máte textový soubor. Najděte a vyměňte zadané slovo. Uživatel určí, co hledat a co by mělo být nahrazeno.
+
+
+
+
+
+################################################################################################################################################################################################
+
 Repozitář pro domácí úlohu č. 8
 
 https://materials.itstep.org/content/4d7e0954-6992-4d4a-bb8b-d4a2b66626e9/en/?cache=0
