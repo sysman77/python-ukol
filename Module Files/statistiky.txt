@@ -1,0 +1,5 @@
+Poèet znakù: 330
+Poèet øádkù: 2
+Poèet samohlásek: 95
+Poèet souhlásek: 162
+Poèet èíslic: 0
